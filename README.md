@@ -129,8 +129,6 @@ SELECT * FROM experiencia ORDER BY inicio DESC;
 | **Abr – Jul 2026** | Administrativa · Automatización y análisis | **SANE-RIEGO, S.A.** | Seguimiento de pedidos en Odoo, automatización de facturación y albaranes con IA, análisis de inventario |
 | **Jun – Dic 2025** | Analista de datos | **Horse Powertrain** | Modelos predictivos de demanda, extracción automática de albaranes, Python + SQL, migración a BigQuery |
 | **Mar – Abr 2025** | Analista de datos | **Turismo, Comercio y Promoción Económica de Salamanca** | Dashboards en Power BI, automatización con Power Query, Python, APIs y web scraping |
-| **Ago – Nov 2023** | Recepcionista | **Abadía Hotel** | Pricing dinámico y benchmarking (ocupación >85%), gestión de reservas |
-| **Feb 2021 – Oct 2024** | Profesora de español | **Español con Marcia** | Clases online, materiales, atención al cliente, contabilidad básica y redes sociales |
 
 <details>
 <summary><code>▶ EXPLAIN</code> &nbsp;→ SEGULA Technologies (actual)</summary>
